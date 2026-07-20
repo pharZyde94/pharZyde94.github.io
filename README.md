@@ -8,11 +8,11 @@
 Verantwortlich für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
 ```
-[Dein Name / Firmenname]
-[Straße, Hausnummer]
-[PLZ, Ort]
-[Land]
-E-Mail: [deine-email@beispiel.de]
+Thilo Denzer
+Wallensteinstr. 19a
+80807 München
+Deutschland
+E-Mail: airday@zydn.de
 ```
 
 ## 2. Überblick über die Datenverarbeitung
@@ -95,7 +95,7 @@ Dir stehen nach der DSGVO folgende Rechte zu:
 - **Widerspruch** (Art. 21 DSGVO) gegen die Verarbeitung,
 - **Beschwerde bei einer Aufsichtsbehörde** (Art. 77 DSGVO), z. B. der für dich zuständigen Landesdatenschutzbehörde.
 
-Zur Ausübung dieser Rechte, soweit sie Daten betreffen, die uns tatsächlich vorliegen (z. B. Kaufdaten), wende dich an: [deine-email@beispiel.de]
+Zur Ausübung dieser Rechte, soweit sie Daten betreffen, die uns tatsächlich vorliegen (z. B. Kaufdaten), wende dich an: airday@zydn.de.
 
 ## 12. Datensicherheit
 
@@ -113,5 +113,5 @@ Wir behalten uns vor, diese Datenschutzerklärung anzupassen, um sie an geänder
 
 Bei Fragen zum Datenschutz wende dich an:
 ```
-[deine-email@beispiel.de]
+airday@zydn.de
 ```
